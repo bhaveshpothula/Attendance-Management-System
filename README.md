@@ -1,6 +1,12 @@
-# Attendance-Management-System
-A console-based Java application to manage student attendance records. This system allows adding students, updating attendance, displaying student records, and saving data persistently between sessions.
+---
 
-Run these commands
+# Attendance-Management-System
+
+A console-based Java application to manage student attendance records. Add students, update attendance, display records, and save data persistently between sessions.
+
+**Run these commands:**
+
+```bash
 javac AttendanceSystem.java
 java AttendanceSystem
+```
